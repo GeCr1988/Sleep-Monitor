@@ -1,4 +1,4 @@
-## Sleep-Monitor
+# Sleep-Monitor
 Aceasta este pagina pentru proiectul pentru concursul Mihai Konteschweller.
 
 **Treci direct la ce te intereseaza**
@@ -40,19 +40,19 @@ adaugam si alte componente in functie de cum evolueaza treaba
 
 # Specificatii componente
 
-<ins>Microcontroller - ESP32 ---- [datasheet](esp32_datasheet_en.pdf)</ins>
+## Microcontroller - ESP32 ---- [datasheet](esp32_datasheet_en.pdf)
 
 lorem ipsum
 
-<ins>Pulsoximetru - MAX301020 ---- [datasheet](max30102.pdf)</ins>
+## Pulsoximetru - MAX301020 ---- [datasheet](max30102.pdf)
 
 lorem ipsum
 
-<ins>Accelerometru - MPU6050 ---- [datasheet](MPU-6000-Datasheet1.pdf)</ins>
+## Accelerometru - MPU6050 ---- [datasheet](MPU-6000-Datasheet1.pdf)
 
 lorem ipsum
 
-<ins>Microfon - MAX9814 ---- [datasheet](max9814.pdf)</ins>
+## Microfon - MAX9814 ---- [datasheet](max9814.pdf)
 
 lorem  ipsum
 
