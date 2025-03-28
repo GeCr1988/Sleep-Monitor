@@ -29,10 +29,10 @@ Motivul principal pentru aceasta alegere a fost insatisfactia produsa de catre o
 
 # Care sunt componentele utilizate?
 
-+ Microcontroller - ESP32\
-+ Pulsoximetru - MAX301020\
-+ Accelerometru - MPU6050\
-+ Microfon - MAX9814\
++ Microcontroller - ESP32
++ Pulsoximetru - MAX301020
++ Accelerometru - MPU6050
++ Microfon - MAX9814
 
 adaugam si alte componente in functie de cum evolueaza treaba
 
