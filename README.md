@@ -1,6 +1,13 @@
 ## Sleep-Monitor
 Aceasta este pagina pentru proiectul pentru concursul Mihai Konteschweller.
 
+**Treci direct la ce te intereseaza**
+
+Introducere [Ce este proiectul?](ce-este-proiectul) ----- [De ce am ales aceasta idee?](de-ce-am-ales-aceasta-idee)
+Despre somn [Sleep research and heartrate research](sleep-research-and-heartrate-research)
+Schema [Cum va arata mai exact?](cum-va-arata-mai-exact)
+Specificatii [Care sunt componentele sale?](care-sunt-componentele-utilizate) ---- [Specificatii componente](specificatii-componente)
+Codul pe care se bazeaza proiectul [Cum functioneaza codul?](cum-functioneaza-codul)
 
 # Ce este proiectul?
 
@@ -20,34 +27,34 @@ Motivul principal pentru aceasta alegere a fost insatisfactia produsa de catre o
 -imagine schema-  vs  -imagine finala-
 
 
-# Care sunt componentele sale?
+# Care sunt componentele utilizate?
 
-Microcontroller - ESP32 -----[datasheet](esp32_datasheet_en.pdf)
+Microcontroller - ESP32
 
-Pulsoximetru - MAX301020 -----[datasheet](max30102.pdf)
+Pulsoximetru - MAX301020
 
-Accelerometru - MPU6050 -----[datasheet](MPU-6000-Datasheet1.pdf)
+Accelerometru - MPU6050
 
-Microfon - MAX9814 -----[datasheet](max9814.pdf)
+Microfon - MAX9814
 
 adaugam si alte componente in functie de cum evolueaza treaba
 
 
 # Specificatii componente - aici descriem in parte componentele
 
-Microcontroller - ESP32
+Microcontroller - ESP32 ---- [datasheet](esp32_datasheet_en.pdf)
 
 lorem ipsum
 
-Pulsoximetru - MAX301020
+Pulsoximetru - MAX301020 ---- [datasheet](max30102.pdf)
 
 lorem ipsum
 
-Accelerometru - MPU6050
+Accelerometru - MPU6050 ---- [datasheet](MPU-6000-Datasheet1.pdf)
 
 lorem ipsum
 
-Microfon - MAX9814
+Microfon - MAX9814 ---- [datasheet](max9814.pdf)
 
 lorem  ipsum
 
