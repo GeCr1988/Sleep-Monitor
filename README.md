@@ -40,7 +40,7 @@ Microfon - MAX9814
 adaugam si alte componente in functie de cum evolueaza treaba
 
 
-# Specificatii componente - aici descriem in parte componentele
+# Specificatii componente
 
 Microcontroller - ESP32 ---- [datasheet](esp32_datasheet_en.pdf)
 
@@ -59,6 +59,6 @@ Microfon - MAX9814 ---- [datasheet](max9814.pdf)
 lorem  ipsum
 
 
-# Cum functioneaza codul? - aici va fi codul pe care ruleaza uC-ul comentat toate alea
+# Cum functioneaza codul?
 
 Gandirea din spatele unor chestii idk
