@@ -33,25 +33,26 @@ Motivul principal pentru aceasta alegere a fost insatisfactia produsa de catre o
 + Pulsoximetru - MAX301020
 + Accelerometru - MPU6050
 + Microfon - MAX9814
++ baterie Li-Po, posibil nevoie modul BMS
 
 adaugam si alte componente in functie de cum evolueaza treaba
 
 
 # Specificatii componente
 
-Microcontroller - ESP32 ---- [datasheet](esp32_datasheet_en.pdf)
+<ins>Microcontroller - ESP32 ---- [datasheet](esp32_datasheet_en.pdf)</ins>
 
 lorem ipsum
 
-Pulsoximetru - MAX301020 ---- [datasheet](max30102.pdf)
+<ins>Pulsoximetru - MAX301020 ---- [datasheet](max30102.pdf)</ins>
 
 lorem ipsum
 
-Accelerometru - MPU6050 ---- [datasheet](MPU-6000-Datasheet1.pdf)
+<ins>Accelerometru - MPU6050 ---- [datasheet](MPU-6000-Datasheet1.pdf)</ins>
 
 lorem ipsum
 
-Microfon - MAX9814 ---- [datasheet](max9814.pdf)
+<ins>Microfon - MAX9814 ---- [datasheet](max9814.pdf)</ins>
 
 lorem  ipsum
 
