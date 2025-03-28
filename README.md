@@ -22,10 +22,14 @@ Motivul principal pentru aceasta alegere a fost insatisfactia produsa de catre o
 
 # Care sunt componentele sale?
 
-[Microcontroller - ESP32](esp32_datasheet_en.pdf)
-[Pulsoximetru - MAX301020](max30102.pdf)
-[Accelerometru - MPU6050](MPU-6000-Datasheet1.pdf)
-[Microfon - MAX9814](max9814.pdf)
+Microcontroller - ESP32 -----[datasheet](esp32_datasheet_en.pdf)
+
+Pulsoximetru - MAX301020 -----[datasheet](max30102.pdf)
+
+Accelerometru - MPU6050 -----[datasheet](MPU-6000-Datasheet1.pdf)
+
+Microfon - MAX9814 -----[datasheet](max9814.pdf)
+
 adaugam si alte componente in functie de cum evolueaza treaba
 
 
