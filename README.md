@@ -3,11 +3,11 @@ Aceasta este pagina pentru proiectul pentru concursul Mihai Konteschweller.
 
 **Treci direct la ce te intereseaza**
 
-Introducere [Ce este proiectul?](#ce-este-proiectul) ----- [De ce am ales aceasta idee?](#de-ce-am-ales-aceasta-idee)
-Despre somn [Sleep research and heartrate research](#sleep-research-and-heartrate-research)
-Schema [Cum va arata mai exact?](#cum-va-arata-mai-exact)
-Specificatii [Care sunt componentele sale?](#care-sunt-componentele-utilizate) ---- [Specificatii componente](#specificatii-componente)
-Codul pe care se bazeaza proiectul [Cum functioneaza codul?](#cum-functioneaza-codul)
+Introducere [Ce este proiectul?](#ce-este-proiectul) ----- [De ce am ales aceasta idee?](#de-ce-am-ales-aceasta-idee)\
+Despre somn [Sleep research and heartrate research](#sleep-research-and-heartrate-research)\
+Schema [Cum va arata mai exact?](#cum-va-arata-mai-exact)\
+Specificatii [Care sunt componentele sale?](#care-sunt-componentele-utilizate) ---- [Specificatii componente](#specificatii-componente)\
+Codul pe care se bazeaza proiectul [Cum functioneaza codul?](#cum-functioneaza-codul)\
 
 # Ce este proiectul?
 
@@ -29,10 +29,10 @@ Motivul principal pentru aceasta alegere a fost insatisfactia produsa de catre o
 
 # Care sunt componentele utilizate?
 
-+Microcontroller - ESP32
-+Pulsoximetru - MAX301020
-+Accelerometru - MPU6050
-+Microfon - MAX9814
++Microcontroller - ESP32\
++Pulsoximetru - MAX301020\
++Accelerometru - MPU6050\
++Microfon - MAX9814\
 
 adaugam si alte componente in functie de cum evolueaza treaba
 
