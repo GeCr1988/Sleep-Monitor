@@ -40,19 +40,19 @@ adaugam si alte componente in functie de cum evolueaza treaba
 
 # Specificatii componente
 
-## Microcontroller - ESP32 ---- [datasheet](esp32_datasheet_en.pdf)
+### Microcontroller - ESP32 ---- [datasheet](esp32_datasheet_en.pdf)
 
 lorem ipsum
 
-## Pulsoximetru - MAX301020 ---- [datasheet](max30102.pdf)
+### Pulsoximetru - MAX301020 ---- [datasheet](max30102.pdf)
 
 lorem ipsum
 
-## Accelerometru - MPU6050 ---- [datasheet](MPU-6000-Datasheet1.pdf)
+### Accelerometru - MPU6050 ---- [datasheet](MPU-6000-Datasheet1.pdf)
 
 lorem ipsum
 
-## Microfon - MAX9814 ---- [datasheet](max9814.pdf)
+### Microfon - MAX9814 ---- [datasheet](max9814.pdf)
 
 lorem  ipsum
 
