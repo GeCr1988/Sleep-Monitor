@@ -15,8 +15,7 @@ Proiectul este crearea unui aparat neinvaziv care să poată monitoriza somnul, 
 
 # De ce am ales aceasta idee?
 
-Motivul principal pentru aceasta alegere a fost insatisfactia produsa de catre optiunile prezente pe piata si raporturile calitate pret. Alt motiv a fost faptul ca doream o modalitate de a ma trezi in stadiul propice pentru a ma simti dohinit, intrucat stim toti momentele cand dormim si 12 ore de exemplu, dar tot oboziti ne trezim. Asa, te poti simti mai energic, fara sa fie nevoie sa dormi extrem de mult. Un ultim motiv a fost posibilitatea de a fi utilizat de catre persoanele varstnice sau cu diferite probleme si nu pot fi monitorizati tot timpul, ca un fel de alerta pentru familiile lor sau chiar de salvare.
-
+Motivul principal pentru această alegere a fost insatisfacția produsă de către opțiunile prezente pe piață și raporturile calitate-preț. Un alt motiv a fost faptul că doream o modalitate de a mă trezi în stadiul propice pentru a mă simți odihnit, întrucât știm cu toții momentele când dormim și 12 ore, de exemplu, dar tot obosiți ne trezim. Așa, te poți simți mai energic, fără să fie nevoie să dormi extrem de mult. Un ultim motiv a fost posibilitatea de a fi utilizat de către persoanele vârstnice sau cu diferite probleme, care nu pot fi monitorizate tot timpul, ca un fel de alertă pentru familiile lor sau chiar de salvare.
 
 # Sleep research and heartrate research
 
