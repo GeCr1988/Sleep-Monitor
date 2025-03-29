@@ -11,7 +11,7 @@ Aceasta este pagina pentru proiectul pentru concursul Mihai Konteschweller.
 
 # Ce este proiectul?
 
-Proiectul este crearea unui aparat neinvaziv care sa poata monitoriza somnul, sa preia date despre acesta si sa le proceseze si sa formeze "diagnostice" cat mai folositoare ale acestuia. De asemenea, poate fi folosit si pentru a estima stadiile de somn si pentru a trezi purtatorul in stadiul cel mai beneefic pentru ca acesta sa se trezeasca odihnit. Dispozitivul poate detecta inconsistente ale somnului, dar si ale pulsului si al nivelului de oxigen din sange si le poate semnala. In cazuri extreme, pot fi alertate rudele sau, in cazuri si mai extreme, chiar si serviciile de urgente.
+Proiectul este crearea unui aparat neinvaziv care să poata monitoriza somnul, sa preia date despre acesta si sa le proceseze si sa formeze "diagnostice" cat mai folositoare ale acestuia. De asemenea, poate fi folosit si pentru a estima stadiile de somn si pentru a trezi purtatorul in stadiul cel mai beneefic pentru ca acesta sa se trezeasca odihnit. Dispozitivul poate detecta inconsistente ale somnului, dar si ale pulsului si al nivelului de oxigen din sange si le poate semnala. In cazuri extreme, pot fi alertate rudele sau, in cazuri si mai extreme, chiar si serviciile de urgente.
 
 
 # De ce am ales aceasta idee?
